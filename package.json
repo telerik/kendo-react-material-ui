@@ -15,6 +15,10 @@
     "@progress/kendo-react-pdf": "^1.2.0",
     "@progress/kendo-theme-material": "^1.2.1",
     "@telerik/kendo-intl": "^1.4.2",
+    "popper.js": "^1.14.4",
+    "brcast": "^3.0.1",
+    "normalize-scroll-left": "^0.1.2",
+    "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
