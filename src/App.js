@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Grid, GridColumn as Column, GridToolbar } from '@progress/kendo-react-grid';
-import '@progress/kendo-theme-material'
+import '@progress/kendo-theme-material/dist/all.css'
 import { sampleProducts } from './sample-products';
 import Button from '@material-ui/core/Button';
 import { DateEditor, TextEditor, NumberEditor } from './editors';
